@@ -47,17 +47,25 @@ This package contains the following Java classes:
 
 This package contains the following Java classes:
 
-- **Login Controller** : A class that provides the functionality for the Login interface.
-- **Admin Controller** : A class that provides the functionality for the Admin interface.
-
-
+- **Login Controller**
+- **Register Controller**
+- **Admin Controller**
+- **User Controller**
+- **Authorization Controller**
+- **View Lecture Controller**
+- **Add Course Controller**
+- **Add Section Controller**
+- **Add Student Controller**
+- **Add lecture Controller**
+- **View lecture Controller**
+- **Register lecture Controller**
+- **Register attendece Controller**
 
 ## Participants
-*This is a pair project (a team of 2 students) who are as follows:*
+*This is a pair project (a team of 3 students) who are as follows:*
 
   - **Abdullah Ahmed Muhaisen** - *120201347*
   - **Hasan Younis Sammour** -    *120201047*
-
 
 
 ## responsibilities and the timeline
@@ -65,26 +73,6 @@ We divided the project into sections, taking into account the strengths and weak
 
 of each of us, and the division was as follows:
 
-- **Book and User Classes:** Written by Hasan Sammour in (18/12/2022).
+- **Datebase SQL:** Written by M and A.
 
-- **GUI Handeling:** Written by Abdullah Muhisen (Between 20/12/2022 and 24/12/2022)
-
-- **Other classes** TreeMap and HashMap are used to make the functions we need to
-    handle with the Basic Operation that our system will handle with.
-
-It was written in cooperation between the two students, as we were meeting
-during the period from 18/12/2022 to 28/12/2022 to consult, put forward ideas,
-and cover the weaknesses of each of us, either at the university or by communicating
-on WhatsApp.
-
-### Notes
-* Some modifications and reforms were added to the codes during
-  the exams period by the student Abdullah Muhaisen,
-  to bring you the Program that is in your hands.
-
-
-* We met again to discuss the amendments that were made during
-  the exams period on Wednesday 11/1/2023 and two days later
-  to bring you the Program that is in your hands.
-  we started preparing the (README.md) file that you have now
-  , and then handing over the project.
+- **Java and GUI Handeling:** Written by Abdullah Muhisen.
