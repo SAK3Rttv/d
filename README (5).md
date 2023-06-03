@@ -34,14 +34,14 @@ The "Attendance tracking systems" attendance tracking system is organized into t
 ### classes package
 This package contains the following Java classes:
 
-- **Attendance Class** : A class that represents attendance records for a student in a lecture.
-- **Course Class** : A class that represents a course and its related information, such as course code and course name.
-- **Lecture Class** : A class that represents a lecture and its related information, such as lecture date and time.
-- **Section Class** : A class that represents a section of a course and its related information, such as section code and section name.
-- **Student Class** : A class that represents a student and their related information, such as student ID and student name.
-- **Student Attend Class** : A class that represents the attendance status of a student in a lecture.
-- **Takes Class** : A class that represents the enrollment of a student in a course section.
-- **User Class** : A class that represents a user and their related information, such as username and password.
+- **Attendance Class**
+- **Course Class**
+- **Lecture Class**
+- **Section Class**
+- **Student Class**
+- **Student Attend Class**
+- **Takes Class**
+- **User Class**
 
 ### com.example.database package
 
